@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body, html{
+  height: 100%;
+  background: #222222;
+  font-family: 'Lato', sans-serif;
+    
+
+}
+
+
+.coolTitle {
+  text-align: center;
+  font-family: 'Oswald', Helvetica, sans-serif;
+  font-size: 40px;
+  letter-spacing: 4px;
+  word-spacing: -8px;
+  color: tomato;
+  
+}
+.text {
+
+  color: #AAAAAA;
+  font-size: 1.2em;
+  border: 2px dashed #AAAAAA; 
+  padding-left: 50px;
+  margin-right: 50%;
+  margin-left: 20px;
+
+}
+
+
+h2{
+
+  font-family: 'Oswald', Helvetica, sans-serif;
+  font-size: 30px;
+  letter-spacing: 4px;
+  word-spacing: -8px;
+  color: tomato;
+  
+}
+
+.inpdiv{
+
+margin: 20px 20px;
+
+}
+
+#input{
+
+height: 50px;
+width: 20%;
+font-weight: bold;
+text-align: center;
+
+}
+
+#enter{
+height: 50px;
+width: 20%;
+font-weight: bold;
+border-radius: 20px;
+background-color: orange;
+}
+
+
+
+
+li{
+
+ color: #AAAAAA;
+  display: block;
+  position: relative;
+  width: 50%;
+  height: 50px;
+  font-size: 1.5em;
+}
+
+.btnlist {
+  color: #000000;
+  background-color: red;
+  font-size: 0.5em;
+  border-radius: 5px
+}
+
+
+.done {
+  text-decoration: line-through;
+}
+
